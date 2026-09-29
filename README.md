@@ -1,5 +1,5 @@
 # 🇧🇷 Olá! Me chamo Enzo Ganzer.
-ℹ Informações rápidas: <br>- 🧑🏻‍🎓 Técnico em informática pelo Instituto Federal do Paraná.  <br>- 🏛️ Aluno do curso de graduação em Engenharia de Software e Inteligência Artificial da Universidade Federal do Paraná.<br>- 📚 Estou aprendendo a linguagem de programação: Python.<br>- 📧 E-mail: eenzoganzer@gmail.com<br>
+ℹ Informações rápidas: <br>- 🧑🏻‍🎓 Técnico em informática pelo Instituto Federal do Paraná.  <br>- 🏛️ Aluno do curso de graduação em Inteligência Artificial e Engenharia de Software da Universidade Federal do Paraná.<br>- 📚 Estou aprendendo a linguagem de programação: Python.<br>- 📧 E-mail: eenzoganzer@gmail.com<br>
 
 
 ## 🌐 Redes Sociais:
@@ -12,10 +12,10 @@
 
 <div align='center'>
   
-![](https://github-readme-stats.shion.dev/api?username=ensodog&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br>
-![](https://streak-stats.demolab.com/?user=ensodog&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=enzoganzer&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br>
+![](https://streak-stats.demolab.com/?user=enzoganzer&theme=dark&hide_border=false)<br/>
   
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ensodog&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=enzoganzer&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 </div>
 
